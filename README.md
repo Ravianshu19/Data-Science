@@ -1,4 +1,4 @@
-# CodSoft Internship 
+# CodSoft Internship
 
 # MOVIE GENRE CLASSIFICATION 
 Developed a machine learning model that can predict the genre of a

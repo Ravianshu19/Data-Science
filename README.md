@@ -1,5 +1,3 @@
-# CodSoft Internship
-
 
 # CREDIT CARD FRAUD DETECTION
 Developed a model to detect fraudulent credit card transactions. Using a

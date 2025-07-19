@@ -1,83 +1,74 @@
+# 🧠 Data Science Portfolio by Ravi Anshu
 
-# 👋 Hi there, I’m Ravi!
-Welcome to my **Data Science Portfolio** – a collection of projects I’ve worked on that dive into real-world problems using data.
-
-From analyzing screen time habits to detecting credit card fraud, each notebook here is a small story where I’ve explored, modeled, and visualized data to find insights that matter.
-
----
-
-## 🧰 Tools I Use
-
-I mostly work with:
-- Python (Pandas, Scikit-learn, Seaborn, XGBoost, etc.)
-- SQL
-- Jupyter & Google Colab
-- A mix of datasets I find interesting – from business to transport and tech
+Welcome to my Data Science repository!  
+This is a curated collection of real-world projects, analyses, and datasets that reflect my hands-on experience in data science, analytics, and machine learning. Every notebook, CSV, and ZIP file here tells a story—from optimizing metro routes to analyzing screen time behavior.
 
 ---
 
-## 📂 What You’ll Find Here
+## 🚀 What's Inside
 
-### 📱 Screen Time Analysis  
-Ever wondered how much time we actually spend on our phones? I looked into it with some cool plots and time-based breakdowns.  
-📁 `Analyzing Screen Time.ipynb` | 📄 `screentime_analysis.csv`
+### 📊 Data Analysis Projects
 
----
+- **Screen Time Analysis**  
+  → Understand digital habits using screentime logs and trends.
 
-### 💳 Credit Card Fraud Detection  
-Tried to figure out how banks can spot fraud – especially when fraud is rare. Built models and handled imbalanced data the right way.  
-📁 `Credit card Fraud Detection.ipynb`
+- **Instagram Evaluation**  
+  → Dive into follower behavior, post engagement & growth metrics.
 
----
+- **User Behaviour Analysis**  
+  → Analyze patterns in user actions to drive personalization and engagement.
 
-### 🔁 Customer Churn Prediction  
-Churn is costly. Here, I used customer data to predict who’s likely to leave and why.  
-📁 `Bank Customer Churn Prediction.ipynb` | 📄 `Churn_Modelling.csv`
+- **Inflation Impact Analysis**  
+  → How inflation rates shape economic indicators and consumer response.
 
----
+- **Electric Vehicle Market Study**  
+  → Market sizing, trends, and adoption forecasts in the EV industry.
 
-### 📩 Spam Detection (NLP)  
-Trained a basic NLP model to tell spam from ham. It’s simple but surprisingly effective.  
-📁 `User behaviour analysis.ipynb` | 📄 `spam.csv`
+- **Metro Operations Optimization**  
+  → Applied optimization to real-world metro transit data (DMRC GTFS).
 
 ---
 
-### 💰 Dynamic Pricing Strategy  
-This was fun! I tried simulating a pricing model that adapts to demand and user behavior.  
-📁 `Dynamic_Pricing_Strategy_.ipynb` | 📦 `dynamic_pricing.zip`
+### 💼 Pricing & Strategy
+
+- **Dynamic Pricing Strategy**  
+  → A/B testing & ML-based pricing experiments for maximizing revenue.
+
+- **Price Elasticity of Demand**  
+  → Economic sensitivity of users to price changes using regression.
 
 ---
 
-### 📊 Instagram Engagement Analysis  
-I dug into what makes posts go viral — likes, hashtags, time of day... everything.  
-📁 `Instagram evaluation.ipynb` | 📄 `Instagram-Data.csv`
+### 📈 Datasets
+
+- `Competition_Data.csv`  
+- `Instagram-Data.csv`  
+- `Inflation_Rates_Transformed.csv`  
+- `Queries.csv`  
+- `spam.csv`  
+- `screentime_analysis.csv`
+
+These files support the above notebooks and are sourced, cleaned, or generated during analysis.
 
 ---
 
-### 🚇 Metro Operations Optimization  
-Used transport feed data (GTFS) to look at optimizing metro schedules and routes.  
-📁 `Metro Operations Optimization.ipynb` | 📦 `DMRC_GTFS.zip`
+### 🗃️ ZIP Archives
+
+Some projects are bundled in ZIP format for cleaner organization:
+- `DMRC_GTFS.zip` – Raw GTFS transit data for Delhi Metro.
+- `user-behaviour.zip` – Contains logs and code for user activity tracking.
+- `dynamic_pricing.zip`, `EV-data.zip` – For pricing model and EV datasets.
 
 ---
 
-### 🔍 Search Query Anomaly Detection  
-Looked into how search queries behave over time and how to spot unusual patterns.  
-📁 `Search Queries Anomaly Detection.ipynb` | 📄 `Queries.csv`
+## 💡 What You'll Learn
+
+- Exploratory Data Analysis (EDA)
+- Machine Learning pipelines
+- Time Series forecasting
+- Optimization techniques
+- Economic modeling (price elasticity, inflation impact)
+- User behavior segmentation
+- Market sizing (EV sector)
 
 ---
-
-### 🧠 User Behavior Modeling  
-Analyzed how users interact with a platform and what actions lead to conversions.  
-📁 `User behaviour analysis.ipynb` | 📦 `user-behaviour.zip`
-
----
-
-## 💡 How to Explore
-
-You can clone the repo and open any `.ipynb` file in Jupyter Notebook or Colab:
-
-```bash
-git clone https://github.com/Ravianshu19/Data-Science.git
-cd Data-Science
-
-
